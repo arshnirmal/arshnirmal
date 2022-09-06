@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsh Nirmal</h1>
 <h3 align="center">A passionate Android App Developer from India.Also like to participate in various contests on competitive programming.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm in Java,Android App Development in Kotlin and React Native,and AI ML**
+- 🌱 I’m currently learning **Data Structures and Algorithm in Java,Android App Development in Kotlin and React Native,and exploring a bit of Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **arshnirmal11@gmail.com**
 
