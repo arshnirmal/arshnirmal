@@ -39,11 +39,8 @@ I am currently learning to build apps using Java and Kotlin. I have also tired m
 <p align="left"> <a href="https://discord.com/users/DavidDeGea11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/arshnirmal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://@arshnirmal.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arsh.nirmal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arshnirmal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/arsh_nirmal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<p>
+<a href="https://github.com/users/arshnirmal/achievements/pull-shark" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="36" height="36" alt="Pull-Shark" /></a>
+</p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/arshnirmal"><img src="https://github-readme-stats.vercel.app/api?username=arshnirmal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arshnirmal's GitHub stats" /></a>
-
-<a href="http://www.github.com/arshnirmal"><img src="https://activity-graph.herokuapp.com/graph?username=arshnirmal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/arshnirmal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshnirmal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Arsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arshnirmal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
