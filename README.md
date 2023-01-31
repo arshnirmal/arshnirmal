@@ -8,8 +8,8 @@ I am currently learning to build apps using Java and Kotlin. I have also tired m
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [arshnirmal11@gmail.com](mailto:arshnirmal11@gmail.com)
-* 🚀  I'm currently working on [College Dropbox](http://github.com/arshnirmal/College-Dropbox)
-* 🧠  I'm learning Kotlin and DSA
+* 🚀  I'm currently working on [Health Care System]([https://github.com/arshnirmal/CtrlAltDart-Ingenious_Hackathon]) & [Todo List]([https://github.com/arshnirmal/Todo-List])
+* 🧠  I'm learning Flutter and DSA
 * 🤝  I'm open to collaborating on Java and Android App Development
 * ⚡  Currently enrolled in EXTC course
 
