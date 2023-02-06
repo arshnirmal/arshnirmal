@@ -41,6 +41,8 @@ I am currently learning to build cross-platform applications using Flutter. I ha
 ### Badges
 <p>
 <a href="https://github.com/users/arshnirmal/achievements/pull-shark" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="36" height="36" alt="Pull-Shark" /></a>
+<a href="https://github.com/users/arshnirmal/achievements/quickdraw" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="36" height="36" alt="Quickdraw" /></a>a
+  https://github.com/users/arshnirmal/achievements/quickdraw
 </p>
 
 [![Arsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arshnirmal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
