@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android App Developer
 ---------------------
 
-I am currently learning to build apps using Java and Kotlin. I have also tired my hands on Flutter and want to learn React Native to build cross platform mobile apps. I have been participating in competitive programming contests for a few months now to enhance my problem solving skills.
+I am currently learning to build cross-platform applications using Flutter. I have also tired my hands on Java and Kotlin and want to learn React Native to build cross platform mobile apps. I also participate in competitive programming contests regularly to enhance my problem solving skills.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [arshnirmal11@gmail.com](mailto:arshnirmal11@gmail.com)
-* 🚀  I'm currently working on [Health Care System](https://github.com/arshnirmal/CtrlAltDart-Ingenious_Hackathon) & [Todo List](https://github.com/arshnirmal/Todo-List)
+* 🚀  I'm currently working on [Todo List](https://github.com/arshnirmal/Todo-List)
 * 🧠  I'm learning Flutter and DSA
 * 🤝  I'm open to collaborating on Java and Android App Development
 * ⚡  Currently enrolled in EXTC course
