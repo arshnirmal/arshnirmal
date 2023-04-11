@@ -8,7 +8,7 @@ I am currently learning to build cross-platform applications using Flutter. I ha
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [arshnirmal11@gmail.com](mailto:arshnirmal11@gmail.com)
-* 🚀  I'm currently working on [Todo List](https://github.com/arshnirmal/Todo-List)
+* 🚀  I'm currently working on [Todo Dapp](https://github.com/arshnirmal/ToDo_DApp)
 * 🧠  I'm learning Flutter and DSA
 * 🤝  I'm open to collaborating on Java and Android App Development
 * ⚡  Currently enrolled in EXTC course
