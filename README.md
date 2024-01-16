@@ -38,8 +38,8 @@
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshnirmal&show_icons=true&locale=en&layout=compact" alt="arshnirmal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshnirmal&amp;show_icons=true&locale=en&amp;layout=compact" alt="arshnirmal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshnirmal&show_icons=true&locale=en" alt="arshnirmal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshnirmal&amp;show_icons=true&amp;locale=en" alt="arshnirmal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshnirmal&" alt="arshnirmal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshnirmal&amp;" alt="arshnirmal" /></p>
