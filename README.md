@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arshnirmal11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/18pl57EnP6zVIBufynHpwoEQ34WGXRUXF?usp=sharing](https://drive.google.com/drive/folders/18pl57EnP6zVIBufynHpwoEQ34WGXRUXF?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/18pl57EnP6zVIBufynHpwoEQ34WGXRUXF?usp=sharing](https://drive.google.com/file/d/1q_y2rPKCs1Mx3Auypp_KRv9d4N9ZMjWC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
